@@ -1,4 +1,4 @@
-# Hey, I'm Thrilok 👋
+# Hey, I'm Thrilok 😁
 
 **CSE Student @ VIT-AP | Developer | Builder | Curious Human**
 
