@@ -13,4 +13,4 @@ Building projects, learning new things, and occasionally fighting bugs at 2 AM. 
 ### 🌐 Find me
 [Portfolio](https://thrilok-chaitanya-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/thrilok-chaitanya-698583278) • [GitHub](https://github.com/thrilokchaitanya-design)
 
-> **Build. Break. Learn. Repeat. 🚀**
+> **Build. Break. Learn. Repeat. 😁**
