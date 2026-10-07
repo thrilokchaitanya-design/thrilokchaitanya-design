@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Thrilok 👋
 
-<!--
-**thrilokchaitanya-design/thrilokchaitanya-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSE Student @ VIT-AP | Developer | Builder | Curious Human**
 
-Here are some ideas to get you started:
+I enjoy turning ideas into **useful software** — from AI/ML and cybersecurity to full-stack and interactive web projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ I work with
+`Python` `Java` `C++` `React` `TypeScript` `FastAPI` `PostgreSQL` `AWS` `Docker` `Git`
+
+### 🚀 Currently
+Building projects, learning new things, and occasionally fighting bugs at 2 AM. 😄
+
+### 🌐 Find me
+[Portfolio](https://thrilok-chaitanya-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/thrilok-chaitanya-698583278) • [GitHub](https://github.com/thrilokchaitanya-design)
+
+> **Build. Break. Learn. Repeat. 🚀**
